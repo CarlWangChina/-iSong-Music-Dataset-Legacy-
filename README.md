@@ -1,4 +1,4 @@
-# àimusic datasets
+# àiSong datasets
 [download datasets](http://aige.midilib.com/%C3%A0imusic-datasets/%C3%A0imusic-datasets.zip)  
 [view datasets](http://aige.midilib.com/%C3%A0imusic-datasets/datas/data-tone/)  
 ## dataset format description
